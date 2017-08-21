@@ -1,0 +1,19 @@
+baseURL = "http://wba10.com/"
+languageCode = "en-us"
+title = "World Business Agency"
+subtitle = "Environmental Solutions"
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = false # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = false # Enable "Categories" widget
+    tags = false # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Languages]
+  [Languages.en]
+    title = "World Business Agency"
+
+  [Languages.pt]
+    title = "World Business Agency"
