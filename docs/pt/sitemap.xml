@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://wba10.com/pt/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://wba10.com/pt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://wba10.com/pt/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://wba10.com/pt/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://wba10.com/pt/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/tags/"
+                />
+  </url>
+  
+</urlset>

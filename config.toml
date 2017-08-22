@@ -2,6 +2,7 @@ baseURL = "http://wba10.com/"
 languageCode = "en-us"
 title = "World Business Agency"
 subtitle = "Environmental Solutions"
+publishDir = "docs"
 
 [Params.widgets]
     search = true # Enable "Search" widget
