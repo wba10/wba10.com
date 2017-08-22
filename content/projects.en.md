@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 menu = "main"
-weight = 8
+weight = 2
 +++
 
 Hugo is a static site engine written in Go.

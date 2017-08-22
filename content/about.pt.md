@@ -1,7 +1,7 @@
 +++
 title = "Sobre" # titulo da pagina
 menu = "main"   # menu em qual a pagina estara disponivel
-weight = 0      # posicao em qual a pagina estara ordenada no menu
+weight = 9      # posicao em qual a pagina estara ordenada no menu
 +++
 
 Hugo is a static bigorna engine written in Go.

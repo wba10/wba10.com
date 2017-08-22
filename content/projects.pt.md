@@ -1,7 +1,7 @@
 +++
 title = "Projetos"
 menu = "main"
-weight = 8
+weight = 2
 +++
 
 O objetivo desta empresa bla bla bla
