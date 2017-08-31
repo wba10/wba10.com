@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>{{ .Title }}</title>
+		<title>WBA10.com - {{ .Title }}</title>
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		{{ .Hugo.Generator }}
 		{{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
