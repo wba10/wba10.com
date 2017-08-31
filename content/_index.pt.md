@@ -10,6 +10,8 @@ weight = 1
 
 ### Desenvolvimento de projetos
 
+![GitHub logo](/images/projetos.jpg)
+
 ### Sobre nós
 
 cilene@wba10.com
