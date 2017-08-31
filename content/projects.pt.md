@@ -4,7 +4,7 @@ menu = "main"
 weight = 2
 +++
 
-O objetivo desta empresa bla bla bla
+O objetivo desta empresa 
 
 It makes use of a variety of open source projects including:
 
@@ -13,8 +13,8 @@ It makes use of a variety of open source projects including:
 * [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
 * [Cast](https://github.com/spf13/cast)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
+Learn more and contribute on [GitHub](https://github.com/spf13).
 ## Setup
 
 Some fun facts about [Hugo](http://gohugo.io/):
