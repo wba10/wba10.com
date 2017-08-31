@@ -1,7 +1,7 @@
 +++
 title = "Indígenas"
 menu = "main"
-weight = 2
+weight = 7
 +++
 
 ![GitHub Logo](/images/aldeiaindigena.jpg)

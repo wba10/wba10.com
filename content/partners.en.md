@@ -2,6 +2,5 @@
 title = "Partners"
 menu = "main"
 weight = 5
+draft = true
 +++
-
-![GitHub Logo](/images/cepeda_ingles1.jpg)
