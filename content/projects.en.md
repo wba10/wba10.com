@@ -5,9 +5,9 @@ weight = 2
 +++
 
 Recycling is a process to convert  waste materials into new products to prevent waste of potentially useful materials, reduce the consumption of fresh raw materials, reduce energy usage, reduce air pollution (from incineration) and water pollution (from landfilling) by reducing the need for "conventional" waste disposal and lower greenhouse gas emissions as compared to plastic production
- Recycling is a key component of modern waste reduction and is the third component of the Reduce, Reuse and Recycle.
+Recycling is a key component of modern waste reduction and is the third component of the Reduce, Reuse and Recycle.
 Recyclable materials include many kinds of glass, paper, metal, plastic, textiles and electronics. The composting or other reuse of biodegradable waste —such as food for garden waste—is also considered  recycling.
- Materials to be recycled are either brought to a collection center or picked up from the curbside, then sorted, cleaned and reprocessed into new materials destined for manufacturing.
+Materials to be recycled are either brought to a collection center or picked up from the curbside, then sorted, cleaned and reprocessed into new materials destined for manufacturing.
 In the strictest sense, recycling of a material would produce a fresh supply of the same material—for example, used office paper would be converted into new office paper, or used polystyrene foam into new polystyrene. However, this is often difficult or too expensive (compared with producing the same product from raw materials or other sources), so "recycling" of many products or materials involves their reuse in producing different materials (for example, paperboard) instead. Another form of recycling is the salvage of certain materials from complex products, either due to their intrinsic value (such as lead from car batteries, or gold from circuit boards), or due to their hazardous nature (e.g., removal and reuse of mercury from thermometers and thermostats).
 
 ![GitHub logo](/images/lixourbano2.jpg)
@@ -32,32 +32,33 @@ The most environmentally resourceful, economically efficient, and cost effective
 The basic concept behind waste management is the waste hierarchy, where the most effective approaches to managing waste are at the top. Waste management is in contrast to waste minimization. Waste management focuses on processing waste after it is created, concentrating on re-use, recycling, and waste-to-energy conversion rather than eliminating the creation of waste in the initial phases of production. Waste minimization involves efforts to minimize  resource and  energy use during manufacture. For the same commercial output, usually the less materials are used, the less waste is produced. Waste minimization usually requires knowledge of the production process, cradle –to-grave analysis (the tracking of materials from their extraction to their return to earth) and detailed knowledge of the composition of the waste.
 The main sources of waste vary from country to country.
 
-__Waste Treatment technologies__
+### Waste Treatment technologies
 
-Incineration
-Landfill
-Recycling
-Windrow composting
+* Incineration
+* Landfill
+* Recycling
+* Windrow composting
 
 
-__Alternative Waste Treatment__
+### Alternative Waste Treatment
 
- Advanced waste treatment technologies, even though these technologies are not necessarily more complex than the established technologies.
- Anaerobic digestion
-Alcohol/ethanol production
-Bioconversion – biomass to fuels
-Biodrying
-Gasification
-GasPlasma: Gasification/SYNGAS
-In-vessel composting
-Mechanical biological treatment
-Mechanical heat treatment
-Plasma arc waste disposal
-Pyrolysis
-Refuse-derived fuel
-Sewage treatment
-Tunnel composting
-Waste autoclave
-Bioethanol
-Biodiesel
-Waste-to-energy
+Advanced waste treatment technologies, even though these technologies are not necessarily more complex than the established technologies.
+
+* Anaerobic digestion
+* Alcohol/ethanol production
+* Bioconversion – biomass to fuels
+* Biodrying
+* Gasification
+* GasPlasma: Gasification/SYNGAS
+* In-vessel composting
+* Mechanical biological treatment
+* Mechanical heat treatment
+* Plasma arc waste disposal
+* Pyrolysis
+* Refuse-derived fuel
+* Sewage treatment
+* Tunnel composting
+* Waste autoclave
+* Bioethanol
+* Biodiesel
+* Waste-to-energy

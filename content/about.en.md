@@ -4,9 +4,6 @@ menu = "main"
 weight = 3
 +++
 
-
-
-
 The city of Curitiba, in southern Brazil, is famous among urban planners for its innovation and rational development, with a reputation for being livable and very sustainable.  It was one of the first cities to market itself as “green” in a 1980s advertising campaign.
 ​Our director Sady Ricardo dos Santos Neto, supported by his father, while Deputy Mayor of Curitiba, approved the first waste sorting project, which involved separating organic from non-organic and hospital waste as well.​  
 Curitiba is blessed with around 400 square kilometers of public parks or forest space. That is more than 50 square meters per inhabitant.  According to some measures, it emits 25 percent less carbon per capita than most Brazilian cities, even though more people own cars here.
@@ -23,49 +20,34 @@ As this tendency is becoming more and more pronounced, we began to realize the l
 If we can adjust the consumer cycle so that what is expelled as waste today can be reused in production, we can convert the world’s mountains of waste into mountains of resources.
 The challenge to turn each bit of waste into resources has been started. Through this process, we aim to restore the environment’s vitality by putting abundant new recycled resources in our hands.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Gasification Project**
+### Gasification Project
 
 PROCESS DESIGN BASIS
 
-• Plant Configuration:
-high pressure fluidized bed gasifier
-tar reforming
-gas cooling and scrubbing
-gas engines
+* Plant Configuration:
+  * high pressure fluidized bed gasifier
+  * tar reforming
+  * gas cooling and scrubbing
+  * gas engines
 
-• Plant Capacity:
-biomass feed 8,000 tpd
-power generation site/district
-Synthetic Natural Gas10,000 tpd
-• Fuel:
-rdf pellets, thermal input 14~19,5 MJ/kg
-9.5%~12% moisture content
-Fuel consumption 6,000,000 tons / year
-• General:
-annual operation 8000 hours
-technical life time >15 years
+* Plant Capacity:
+  * biomass feed 8,000 tpd
+  * power generation site/district
+  * Synthetic Natural Gas10,000 tpd
 
-• Plant Efficiency:
-electrical efficiency 28 % (LHV, net)
-electrical efficiency 30% (LHV, gross)
-overall efficiency 87% (LHV)
+* Fuel:
+  * rdf pellets, thermal input 14~19,5 MJ/kg
+  * 9.5%~12% moisture content
+  * Fuel consumption 6,000,000 tons / year
+
+* General:
+  * annual operation 8000 hours
+  * technical life time >15 years
+
+* Plant Efficiency:
+  * electrical efficiency 28 % (LHV, net)
+  * electrical efficiency 30% (LHV, gross)
+  * overall efficiency 87% (LHV)
 
 
 
