@@ -18,7 +18,7 @@ cilene@wba10.com
 
 alexandre@wba10.com
 
-pericles@wba10.com
+bond@wba10.com
 
 fabio@wba10.com
 
