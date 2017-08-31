@@ -1,10 +1,9 @@
 +++
-title = "environmental management"
+title = "Environmental Management"
 menu = "main"
 weight = 6
 +++
 
-### Environmental Management
 
 _“A project to the sustainable aiming for Arab Countries”_
 
