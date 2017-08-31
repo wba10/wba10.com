@@ -10,7 +10,7 @@ Recyclable materials include many kinds of glass, paper, metal, plastic, textile
 Materials to be recycled are either brought to a collection center or picked up from the curbside, then sorted, cleaned and reprocessed into new materials destined for manufacturing.
 In the strictest sense, recycling of a material would produce a fresh supply of the same material—for example, used office paper would be converted into new office paper, or used polystyrene foam into new polystyrene. However, this is often difficult or too expensive (compared with producing the same product from raw materials or other sources), so "recycling" of many products or materials involves their reuse in producing different materials (for example, paperboard) instead. Another form of recycling is the salvage of certain materials from complex products, either due to their intrinsic value (such as lead from car batteries, or gold from circuit boards), or due to their hazardous nature (e.g., removal and reuse of mercury from thermometers and thermostats).
 
-![GitHub logo](/images/lixourbano2.jpg)
+![Urban Waste](/images/lixourbano2.jpg)
 
 Zero Waste is a philosophy that encourages the redesign of resource life cycles so that all products are reused. No trash is sent to landfills and incinerations. The process recommended is one similar to the way that resources are reused in nature. The internationally recognized definition of ZERO WASTE adopted by the Zero Waste International Alliance is:
 "Zero Waste is a goal that is ethical, economical, efficient and visionary, to guide people in changing their lifestyles and practices to emulate sustainable natural cycles, where all discarded materials are designed to become resources for others to use.
