@@ -12,15 +12,11 @@
     
     <item>
       <title>Projetos</title>
-      <link>http://wba10.com/pt/projects/</link>
+      <link>http://wba10.com/pt/projetos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wba10.com/pt/projects/</guid>
-      <description>O objetivo desta empresa bla bla bla
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+      <guid>http://wba10.com/pt/projetos/</guid>
+      <description>A reciclagem é um processo para converter resíduos em novos produtos para evitar o desperdício de materiais potencialmente úteis, reduzir o consumo de matérias-primas frescas, reduzir o uso de energia, reduzir a poluição do ar (da incineração) e poluição (a partir de água eliminação de aterros), reduzindo a necessidade de &amp;ldquo;convencional&amp;rdquo; resíduos e menor efeito estufa gás emissões em comparação com a produção de plástico Reciclagem é um componente-chave da redução de resíduos moderna e é o terceiro componente da reduzir, reutilizar e reciclar.</description>
     </item>
     
     <item>
@@ -29,11 +25,49 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://wba10.com/pt/about/</guid>
-      <description>Hugo is a static bigorna engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>A cidade de Curitiba, no sul do Brasil, é famosa entre os planejadores urbanos por sua inovação e desenvolvimento racional, com reputação de ser habitável e muito sustentável.
+Foi uma das primeiras cidades a comercializar-se como &amp;ldquo;verde&amp;rdquo; em uma campanha publicitária dos anos 80. Nosso diretor Sady Ricardo dos Santos Neto, apoiado por seu pai, enquanto vice-prefeito de Curitiba, aprovou o primeiro projeto de triagem de resíduos, que envolveu a separação de resíduos orgânicos de resíduos não orgânicos e hospitalares.</description>
+    </item>
+    
+    <item>
+      <title>História</title>
+      <link>http://wba10.com/pt/hist%C3%B3ria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/pt/hist%C3%B3ria/</guid>
+      <description>Musa Agro Química Ltda.
+Empresa familiar fundada em 1967 por Sady Ricardo dos Santos Filho e Muna Karam dos Santos.
+Dr. Sady Ricardo dos Santos Filho, engenheiro agrônomo, funcionário do Ministério da agricultura tinha 4 filhos naquela época, ​larga ​ experiência no interior dos Estados do Paraná e Santa Catarina, profundamente conhecedor d​a terra ​, ​d​as variáveis climáticas, atmosféricas ​, da ​pressão e umidade.
+​Esimulado por​ ​manter uma grande família com um salário ​de​ funcionário do governo, ele criou um produto, um herbicida, que seria vendido à Portos e Municípios a fim de livrar-se do mato que crescia entre as pedras do pavimento.</description>
+    </item>
+    
+    <item>
+      <title>Gerenciamento Ambiental</title>
+      <link>http://wba10.com/pt/environmental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/pt/environmental/</guid>
+      <description>GERENCIAMENTO AGRO AMBIENTAL POR SATELITE  &amp;ldquo;Um projeto sustentável dirigido aos países árabes&amp;rdquo; *
+  Considerando-se a necessidade de estabelecer a reorganização do sistema produtivo em moldes modernos e dentro de um foco de sustentabilidade, foi desenvolvido pelo ex-representante da EMBRAPA, Empresa Brasileira de Pesquisa Amabiental, Sr. Sady Ricardo dos Santos Presidente do CEPEDA – ( Pesquisa, preservação e centro de desenvolvimento ambiental), o programa de gerenciamento agroambiental por satélite.</description>
+    </item>
+    
+    <item>
+      <title>Indígenas</title>
+      <link>http://wba10.com/pt/indigenous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/pt/indigenous/</guid>
+      <description>A WBA está operando junto à comunidade indígena no manejo ambiental, auxiliando técnicamente com preservação, eliminação de cultivares ectópicos à região, ou seja, retirando todo e qualquer plantio de reflorestamento comercial, bem como lavouras que de alguma forma vão ferir a qualidade do solo e o ambiente nativo.
+Esta parceria ambiciona aumentar a demarcação ao indígenas com a contrapartida da proteção das fronteiras, evitando desmatamento, invasões, repatriando a fauna e estabilizando a flora no sentido de dar ao silvicula a sua real função dentro da sociedade e sua maior contribuição para proteção e restauração do meio ambiente.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://wba10.com/pt/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/pt/projects/</guid>
+      <description>Recilclagem do Lixo A reciclagem é um processo para converter resíduos em novos produtos para evitar o desperdício de materiais potencialmente úteis, reduzir o consumo de matérias-primas frescas, reduzir o uso de energia, reduzir a poluição do ar (da incineração) e poluição (a partir de água eliminação de aterros), reduzindo a necessidade de &amp;ldquo;convencional&amp;rdquo; resíduos e menor efeito estufa gás emissões em comparação com a produção de plástico Reciclagem é um componente-chave da redução de resíduos moderna e é o terceiro componente da reduzir, reutilizar e reciclar.</description>
     </item>
     
   </channel>

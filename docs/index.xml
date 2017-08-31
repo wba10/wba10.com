@@ -16,11 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://wba10.com/projects/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Recycling is a process to convert waste materials into new products to prevent waste of potentially useful materials, reduce the consumption of fresh raw materials, reduce energy usage, reduce air pollution (from incineration) and water pollution (from landfilling) by reducing the need for &amp;ldquo;conventional&amp;rdquo; waste disposal and lower greenhouse gas emissions as compared to plastic production Recycling is a key component of modern waste reduction and is the third component of the Reduce, Reuse and Recycle.</description>
     </item>
     
     <item>
@@ -29,11 +25,38 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://wba10.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>The city of Curitiba, in southern Brazil, is famous among urban planners for its innovation and rational development, with a reputation for being livable and very sustainable. It was one of the first cities to market itself as “green” in a 1980s advertising campaign. ​Our director Sady Ricardo dos Santos Neto, supported by his father, while Deputy Mayor of Curitiba, approved the first waste sorting project, which involved separating organic from non-organic and hospital waste as well.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://wba10.com/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/history/</guid>
+      <description>Musa Agro Química Ltda. Family company established in 1967 by Sady Ricardo dos Santos Filho and Muna Karam dos Santos.
+Dr. Sady Ricardo dos Santos Filho, Agronomist, official of the Ministry of Agriculture having 4 kids at that time, huge field experience in the interior cities of Paraná and Santa Catarina, deeply knowledgeable of the land needs, the climatic variables, atmospheric pressure and humidity. Due to the difficulties of keeping a big family with a regular salary as a government employee he created a product, an herbicide, which would be sold to municipalities and ports in order to get rid of the grass that grew among the pavement stones.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Management</title>
+      <link>http://wba10.com/environmental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/environmental/</guid>
+      <description>“A project to the sustainable aiming for Arab Countries”
+Considering the necessity of establishing the reorganization of a productive system in modern molds and within a focus of sustainability, it was developed by the ex-representative of the Estate Company EMBRAPA, Mr. Sady Ricardo dos Santos chairman of CEPEDA – (Research, Preservation and Environmental Development Center), the AGRO ECONOMICAL AND ENVIRONMENTAL MANAGEMENT PROGRAM BY SATELLITE.
+The program was computerized by INPE, registered at CREA e CONFEA and considered by EMBRAPA, INPE, CREA, AGRICULTURE MINISTRY and other governmental agencies connected to agriculture and environment in Brazil, as a new model to economic, environmental and agro industrial activities, capable of promoting the recuperation of the international economies with a sustainable development.</description>
+    </item>
+    
+    <item>
+      <title>Indígenous</title>
+      <link>http://wba10.com/indigenous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wba10.com/indigenous/</guid>
+      <description>The WBA is operating ​with​ the indigenous community in environmental management, assisting technically with preservation, elimination of ectopic cultivars to the region, namely, removing any plantation commercial reforestation, as well as crops that will somehow hurt the quality of the soil and the native environment.
+This partnership aspires to increase the demarcation to the natives with the consideration of the protection of borders, preventing deforestation, invasions, repaying fauna and stabilizing the flora in order to give the silvicula to your real function within society and your greatest contribution to protection and restoration of the environment.</description>
     </item>
     
   </channel>
