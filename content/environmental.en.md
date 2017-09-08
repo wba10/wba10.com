@@ -1,5 +1,5 @@
 +++
-title = "Environmental Management"
+title = "CEPEDA/ENVIRONMENTAL MANAGEMENT"
 menu = "main"
 weight = 6
 +++
@@ -50,7 +50,9 @@ Based on the regional diagnosis, the  Center will be able to identify the proble
 
 ### SUSTAINABLE DEVELOPMENT
 
-When the environment is analyzed, normally the attention involves pratically the forests and in a second moment to the ground, water resources, air, food, and etc. However, the problems of environmental changes (erosion, springs, ciliary bushes, forests devastation, forest fires, problems with ground poisoning, air, water and etc), reach the totality of the ecological patrimony in a global way. There is a joint evaluation missing, integrating all human nestings, with researches inherent to the ecosystems, with data about climates, ground, cultures, cattle, forests, sea, deserted areas and etc.    
+When the environment is analyzed, normally the attention involves pratically the forests and in a second moment to the ground, water resources, air, food, and etc. However, the problems of environmental changes (erosion, springs, ciliary bushes, forests devastation, forest fires, problems with ground poisoning, air, water and etc), reach the totality of the ecological patrimony in a global way.
+
+There is a joint evaluation missing, integrating all human nestings, with researches inherent to the ecosystems, with data about climates, ground, cultures, cattle, forests, sea, deserted areas and etc.    
 A special attention must be given to the areas  subject to low and high temperatures, frost, hail, floods, droughts or other actions of environmental impact, with pronounced influences about the environment and farming exploitations.
 
 

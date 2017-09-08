@@ -1,5 +1,5 @@
 +++
-title = "History"
+title = "MUSA AGRO QUIMICA LTDA"
 menu = "main"
 weight = 4
 +++
@@ -18,4 +18,5 @@ Due to all these responsibilities, he delegated the company management to his so
 
 
 After that, in charge of his positions, he started to work with environmental projects, including the Satellite Center of Research to provide an adequate planting.
-He created the project and guided the first Brazilian waste management and sorting projects presented by his son to the city of Curitiba, teaching people to recycle and reuse oil containers. It is not possible to talk about the company's history without talking about the history of its CEO. Over the years, he has been working with contemporary guidelines, creating and directing us to form an innovative, ethic company and with the mission of providing an eco-friendly and sustainable world, using natural means, and thus not disturbing the ability of the planet as a healthy and living organism. 
+
+He created the project and guided the first Brazilian waste management and sorting projects presented by his son to the city of Curitiba, teaching people to recycle and reuse oil containers. It is not possible to talk about the company's history without talking about the history of its CEO. Over the years, he has been working with contemporary guidelines, creating and directing us to form an innovative, ethic company and with the mission of providing an eco-friendly and sustainable world, using natural means, and thus not disturbing the ability of the planet as a healthy and living organism.

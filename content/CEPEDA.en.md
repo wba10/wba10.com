@@ -1,5 +1,5 @@
 +++
-title = "Indígenous"
+title = "CEPEDA/INDIGENOUS"
 menu = "main"
 weight = 7
 +++
