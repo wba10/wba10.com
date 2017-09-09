@@ -12,7 +12,7 @@ weight = 1
 
 ### MUSA AGRO QUIMICA LTDA
 
-### AGORA PARANÁ  www.agoraparana.com.br
+### AGORA PARANÁ  [GitHub](http:/www.agoraparana.com.br/github.com)
 
 ### BOND METAL
 
@@ -27,19 +27,34 @@ weight = 1
 
 ### Sobre nós
 
-cilene@wba10.com
 
-alexandre@wba10.com
+DR CILENE KARAM DOS SANTOS
+[cilene@wba10.com](http://github.com)
 
-bond@wba10.com
+ENG ALEXANDRE KARAM BON
+[alexandre@wba10.com](http://github.com)
 
-fabio@wba10.com
+ENG PERICLES DE SOUZA BOND
+[bond@wba10.com](http://github.com)
 
-sady@wba10.com
+DR FÁBIO RICARDO DOS SANTOS
+[fabio@wba10.com](http://github.com)
 
-jorge@wba10.com
+ENG SADY RICARDO DOS SANTOAS
+[sady@wba10.com](http://github.com)
 
-cibele@wba10.com
+DR JORGE RICARDO DOS SANTOS
+[jorge@wba10.com](http://github.com)
+
+CIBELE ANTONIA KARAM DOS SANTOS BOND
+[cibele@wba10.com](http://github.com)
+
+LUAN HADDAD RICARDO DOS SANTOS
+[luan@wba10.com](http://github.com)
+
+CAÍQUE HADDAD RICARDO DOS SANTOS
+[caique@wba10.com](http://github.com)
+
 
 Rua Alexandre de Gusmão 175 Curitiba- Paraná
 CEP 82530-050
