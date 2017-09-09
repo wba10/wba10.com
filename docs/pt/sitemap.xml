@@ -78,6 +78,16 @@
   
   <url>
     <loc>http://wba10.com/pt/o-sonho-do-rio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/o-sonho-do-rio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/o-sonho-do-rio/"
+                />
   </url>
   
   <url>

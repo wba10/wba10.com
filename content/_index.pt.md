@@ -10,7 +10,9 @@ weight = 1
 ### WORLD BUSINESS AGENCY   WBA
 
 ### CEPEDA - CENTRO DE PESQUISAS E DESENVOLVIMENTO AMBIENTAL POR SATÉlITE
-![GitHub logo](/images/cepeda.jpg)
+
+### KOLIBER International
+![GitHub logo](/images/koliber.png)
 
 ### MUSA AGRO QUIMICA LTDA
 
