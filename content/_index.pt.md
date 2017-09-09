@@ -12,7 +12,7 @@ weight = 1
 
 ### MUSA AGRO QUIMICA LTDA
 
-### AGORA PARANÁ  [GitHub](http:/www.agoraparana.com.br/github.com)
+### AGORA PARANÁ    http://www.agoraparana.com.br
 
 ### BOND METAL
 
