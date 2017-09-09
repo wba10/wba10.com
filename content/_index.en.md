@@ -46,7 +46,7 @@ design; and project management.
 DR CILENE KARAM DOS SANTOS
 [cilene@wba10.com](http://github.com)
 
-ENG ALEXANDRE KARAM BON
+ENG ALEXANDRE KARAM BOND
 [alexandre@wba10.com](http://github.com)
 
 ENG PERICLES DE SOUZA BOND
