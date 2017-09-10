@@ -4,14 +4,33 @@ menu = "main"
 weight = 1
 +++
 
+
+
+### WORLD BUSINESS AGENCY   
+![GitHub logo](/images/logo.jpg)
+
+*Introduction*
+
+Worldwide, our growing cities and changing lifestyles
+are placing greater demand on scarce resources.
+Addressing pressures to reuse, recycle or recover
+resources from waste creates commercial opportunities
+which promote healthier communities and environments.
+WBA’s specialists provide clients with an integrated and
+bespoke approach.
+We tailor teams of specialists to match clients’ needs
+including: strategic, technical or environmental advice;
+planning or business case modelling; infrastructure
+design; and project management.
+
+
 ### HOLDING
 ### Subsidiaries companies
-
-### WORLD BUSINESS AGENCY   WBA
 
 ### CEPEDA - CENTRO DE PESQUISAS E DESENVOLVIMENTO AMBIENTAL POR SATÉlITE
 
 ### MUSA AGRO QUIMICA LTDA
+![GitHub logo](/images/musa.PNG)
 
 ### AGORA PARANÁ  http://www.agoraparana.com.br
 ![Agora Parana](/images/agoraparana.png)
@@ -32,19 +51,9 @@ weight = 1
 
 ![GitHub logo](/images/projetos.jpg)
 
-*Introduction*
 
-Worldwide, our growing cities and changing lifestyles
-are placing greater demand on scarce resources.
-Addressing pressures to reuse, recycle or recover
-resources from waste creates commercial opportunities
-which promote healthier communities and environments.
-WBA’s specialists provide clients with an integrated and
-bespoke approach.
-We tailor teams of specialists to match clients’ needs
-including: strategic, technical or environmental advice;
-planning or business case modelling; infrastructure
-design; and project management.
+
+![GitHub logo](/images/mancha de oleo.jpg) ![GitHub logo](/images/satelite.jpg)   ![GitHub logo](/images/proteçãomananciais.jpg) ![GitHub logo](/images/reciclagem.jpg)
 
 
 ### Address

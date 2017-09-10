@@ -4,6 +4,8 @@ menu = "main"
 weight = 4
 +++
 
+![GitHub logo](/images/musa.PNG)
+
 Musa Agro Química Ltda.
  
 Family company established in 1967 by Sady Ricardo dos Santos Filho and Muna Karam dos Santos.
@@ -20,3 +22,14 @@ Due to all these responsibilities, he delegated the company management to his so
 After that, in charge of his positions, he started to work with environmental projects, including the Satellite Center of Research to provide an adequate planting.
 
 He created the project and guided the first Brazilian waste management and sorting projects presented by his son to the city of Curitiba, teaching people to recycle and reuse oil containers. It is not possible to talk about the company's history without talking about the history of its CEO. Over the years, he has been working with contemporary guidelines, creating and directing us to form an innovative, ethic company and with the mission of providing an eco-friendly and sustainable world, using natural means, and thus not disturbing the ability of the planet as a healthy and living organism.
+
+* MUSA: Producer and distributer of:
+* Wide range of automotive care products (such as car and motorcycle wax, furniture polish, tire shine spray, cleaning products, liquid soap for gas station car washes)
+1. Cerauto
+2. Cerauto rail
+3. Motokera
+4. Lustra Móveis Casarão
+5. Cerauto Lavacar
+6. Limpa pneus Cerauto
+
+![GitHub logo](/images/cerauto.PNG)  ![GitHub logo](/images/casarao.PNG)
