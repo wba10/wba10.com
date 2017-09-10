@@ -2,6 +2,7 @@
 title = "Home"
 menu = "main"
 weight = 1
+draft = true
 +++
 
 ### HOLDING
@@ -11,8 +12,6 @@ weight = 1
 
 ### CEPEDA - CENTRO DE PESQUISAS E DESENVOLVIMENTO AMBIENTAL POR SATÉlITE
 
-### KOLIBER International
-![GitHub logo](/images/koliber.png)
 
 ### MUSA AGRO QUIMICA LTDA
 
@@ -65,9 +64,6 @@ CIBELE ANTONIA KARAM DOS SANTOS BOND
 
 [cibele@wba10.com](mailto:cibele@wba10.com)
 
-LUAN HADDAD RICARDO DOS SANTOS
-
-[luan@wba10.com](mailto:luan@wba10.com)
 
 CAÍQUE HADDAD RICARDO DOS SANTOS
 

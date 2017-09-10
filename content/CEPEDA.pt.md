@@ -2,7 +2,9 @@
 title = "CEPEDA/INDÍGENAS"
 menu = "main"
 weight = 7
+draft = true
 +++
+
 
 ![GitHub Logo](/images/aldeiaindigena.jpg)
 

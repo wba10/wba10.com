@@ -4,7 +4,7 @@ menu = "main"
 weight = 4
 +++
 
-![GitHub logo](/images/musa.PNG)
+![GitHub logo](/images/musa1.PNG)
 
 Musa Agro Química Ltda.
  

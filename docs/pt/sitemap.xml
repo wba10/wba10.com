@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://wba10.com/pt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wba10.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://wba10.com/pt/"
-                />
-  </url>
-  
-  <url>
     <loc>http://wba10.com/pt/projetos/</loc>
   </url>
   
@@ -31,48 +17,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://wba10.com/pt/wba/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://wba10.com/pt/musa-agro-quimica-ltda/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wba10.com/musa-agro-quimica-ltda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://wba10.com/pt/musa-agro-quimica-ltda/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://wba10.com/pt/environmental/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wba10.com/environmental/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://wba10.com/pt/environmental/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://wba10.com/pt/cepeda/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wba10.com/cepeda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://wba10.com/pt/cepeda/"
                 />
   </url>
   
@@ -131,6 +75,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://wba10.com/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://wba10.com/pt/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wba10.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://wba10.com/pt/"
                 />
   </url>
   

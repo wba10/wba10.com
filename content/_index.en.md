@@ -31,7 +31,7 @@ design; and project management.
 ![GitHub logo](/images/cepeda.PNG)
 
 ### MUSA AGRO QUIMICA LTDA
-![GitHub logo](/images/musa.PNG)
+![GitHub logo](/images/musa1.PNG)
 
 ### AGORA PARANÁ  http://www.agoraparana.com.br
 ![Agora Parana](/images/agoraparana.png)
@@ -54,7 +54,7 @@ design; and project management.
 
 
 
-![GitHub logo](/images/mancha de oleo.jpg) ![GitHub logo](/images/satelite.jpg)   ![GitHub logo](/images/proteçãomananciais.jpg) ![GitHub logo](/images/reciclagem.jpg)
+![GitHub logo](/images/kalahari.jpg) ![GitHub logo](/images/satelite.jpg)   ![GitHub logo](/images/proteçãomananciais.jpg) ![GitHub logo](/images/reciclagem.jpg)
 
 
 ### Address
