@@ -37,7 +37,7 @@ The main sources of waste vary from country to country.
 * Incineration
 * Landfill
 * Recycling
-* Windrow composting
+* Windrow composting                                      ![GitHub logo](/images/recycle.PNG)
 
 
 ### Alternative Waste Treatment
@@ -61,4 +61,4 @@ Advanced waste treatment technologies, even though these technologies are not ne
 * Waste autoclave
 * Bioethanol
 * Biodiesel
-* Waste-to-energy
+* Waste-to-energy                                           ![GitHub logo](/images/recyclepercurse.PNG)

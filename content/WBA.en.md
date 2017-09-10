@@ -89,30 +89,3 @@ Air Density Separator (ADS)
 ETA/ETE/ATI
 It is a highly efficient Dissolution Air Flotation (DAF) unit, open surface, provided with a circular tank. The Delta purge presents a two-step process, Dissolution Air flocculation and flotation, gathered into one.
 The floating and sediment sludge is transported by a fisherman paddle or spiral, situated on a bridge that turns the tank. Bottom scrapers remove any sediment, leading it to the collector of sediment, which is drained at regular intervals. Along with side scrapers, they keep the machine completely clean.
-
-
-### WASTE MANAGEMENT
-1. Incineration
-2. Landfill
-3. Recycling
-4. Windrow composting                                                             ![GitHub logo](/images/recycle.PNG)
-
-### Advanced Alternative waste treatment technologies
-
-* Anaerobic digestion
-* Alcohol/ethanol production
-* Bioconversion - biomass to fuels
-* Biodrying
-* Gasification
-* GasPlasma/gasification/SYNGAS
-* Pirolysis
-* Refuse - derived fuels
-* Sewage treatment
-* Tunnel composting
-* Waste Autoclave
-* Biodiesel
-* waste-to-energy                                                  ![GitHub logo](/images/recyclepercurse.PNG)
-
-### WATER FORMATION, OIL ACCIDENTS
-
-* Marketing an selling the registered process, OASYS, performed and approved to clean oil accidents and clean the water after pumping inside refinaries and other oil process.
