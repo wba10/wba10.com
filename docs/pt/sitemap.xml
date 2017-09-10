@@ -21,16 +21,16 @@
   </url>
   
   <url>
-    <loc>http://wba10.com/pt/about/</loc>
+    <loc>http://wba10.com/pt/wba/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://wba10.com/about/"
+                href="http://wba10.com/wba/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://wba10.com/pt/about/"
+                href="http://wba10.com/pt/wba/"
                 />
   </url>
   

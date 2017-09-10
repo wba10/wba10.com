@@ -28,6 +28,7 @@ design; and project management.
 ### Subsidiaries companies
 
 ### CEPEDA - CENTRO DE PESQUISAS E DESENVOLVIMENTO AMBIENTAL POR SATÉlITE
+![GitHub logo](/images/cepeda.PNG)
 
 ### MUSA AGRO QUIMICA LTDA
 ![GitHub logo](/images/musa.PNG)

@@ -1,8 +1,14 @@
 +++
-title = "About"
+title = "WBA"
 menu = "main"
 weight = 3
 +++
+
+
+Brazilian company founded in 2007, with it's main focused on environmental projects.
+Operating inside Brazil and the Gulf Region with its target clients being governmental and private sector.
+Like in our city Curitiba:
+
 
 The city of Curitiba, in southern Brazil, is famous among urban planners for its innovation and rational development, with a reputation for being livable and very sustainable.  It was one of the first cities to market itself as “green” in a 1980s advertising campaign.
 ​Our director Sady Ricardo dos Santos Neto, supported by his father, while Deputy Mayor of Curitiba, approved the first waste sorting project, which involved separating organic from non-organic and hospital waste as well.​  
@@ -52,40 +58,6 @@ PROCESS DESIGN BASIS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  **WASTE / REFUSE PROCESSING**
 
 After crushing such bulky noncombustible objects such as household electronics, as well as wooden furniture, the waste is sorted into various categories, including steel, aluminum, combustible and noncombustible.
@@ -98,9 +70,6 @@ Magnetic Separator
 This machine magnetically separates steel from other waste.
 Rotary Screen
 After magnetic waste has been sorted out, this machine separates crushed waste by size and sorts out combustible (which mixed with aluminum) from noncombustible waste.
-
-
-
 
 
 
@@ -117,10 +86,33 @@ Air Density Separator (ADS)
 
 
 
-
-
-
-
 ETA/ETE/ATI
 It is a highly efficient Dissolution Air Flotation (DAF) unit, open surface, provided with a circular tank. The Delta purge presents a two-step process, Dissolution Air flocculation and flotation, gathered into one.
 The floating and sediment sludge is transported by a fisherman paddle or spiral, situated on a bridge that turns the tank. Bottom scrapers remove any sediment, leading it to the collector of sediment, which is drained at regular intervals. Along with side scrapers, they keep the machine completely clean.
+
+
+### WASTE MANAGEMENT
+1. Incineration
+2. Landfill
+3. Recycling
+4. Windrow composting                                                             ![GitHub logo](/images/recycle.PNG)
+
+### Advanced Alternative waste treatment technologies
+
+* Anaerobic digestion
+* Alcohol/ethanol production
+* Bioconversion - biomass to fuels
+* Biodrying
+* Gasification
+* GasPlasma/gasification/SYNGAS
+* Pirolysis
+* Refuse - derived fuels
+* Sewage treatment
+* Tunnel composting
+* Waste Autoclave
+* Biodiesel
+* waste-to-energy                                                  ![GitHub logo](/images/recyclepercurse.PNG)
+
+### WATER FORMATION, OIL ACCIDENTS
+
+* Marketing an selling the registered process, OASYS, performed and approved to clean oil accidents and clean the water after pumping inside refinaries and other oil process.

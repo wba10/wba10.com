@@ -4,6 +4,7 @@ menu = "main"
 weight = 7
 +++
 
+![GitHub logo](/images/cepeda.PNG)
 ![GitHub Logo](/images/aldeiaindigena.jpg)
 
 The WBA is operating

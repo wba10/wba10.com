@@ -1,5 +1,5 @@
 +++
-title = "Sobre"
+title = "WBA"
 menu = "main"
 weight = 3
 +++
