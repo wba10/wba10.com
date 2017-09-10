@@ -1,10 +1,12 @@
 +++
-title = "CEPEDA/ENVIRONMENTAL MANAGEMENT"
+title = "CEPEDA/ENVIRONMENTAL SOLUTIONS"
 menu = "main"
 weight = 6
 +++
 
 ![GitHub logo](/images/cepeda.PNG)
+
+
 
 _“A project to the sustainable aiming for Arab Countries”_
 

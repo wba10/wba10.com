@@ -1,7 +1,8 @@
 +++
-title = "Eletronics Waste Management"
+title = "Electronics Waste Management"
 menu = "main"
 weight = 5
+draft = true
 +++
 
 E-waste is growing, and with that surge comes the need for effective electronics recycling programs.People are urgently looking for information on TV recycling, computer recycling, and other programs that will help them responsibly get rid of unwanted equipment ​while minimizing any risk of information or identity theft.
@@ -28,3 +29,7 @@ In 2010, the National Solid Waste Policy, or PNRS, was published, regulating the
 The PNRS states that every institution and organization is responsible for separating and properly dumping the waste they produce, which includes industry, commerce, cities and consumers. Following this premise, companies are investing in reverse logistic operations in order to collect their products at the end of its life cycle. Consumers must participate in this process, separating the waste and taking it to proper delivery posts.
 
 The PNRS categorized electro-electronics and fluorescent lamps as special solid waste, which the producers are obligated to collect due to the high environmental impact it may cause.
+
+Our experts ar focused to offer consultancy and solutions for any kind of electronic waste from private and Public sectors.
+
+Providing solutions for Municipalities and states in Brazil.
