@@ -1,5 +1,5 @@
 +++
-title = "Projects development"
+title = "Waste Management"
 menu = "main"
 weight = 2
 +++

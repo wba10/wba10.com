@@ -2,6 +2,7 @@
 title = "CEPEDA/INDIGENOUS"
 menu = "main"
 weight = 7
+draft = true
 +++
 
 ![GitHub logo](/images/cepeda.PNG)
