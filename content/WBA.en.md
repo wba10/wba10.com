@@ -1,5 +1,5 @@
 +++
-title = "Our histoy"
+title = "Our history"
 menu = "main"
 weight = 3
 +++
