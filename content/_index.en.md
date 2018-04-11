@@ -6,7 +6,7 @@ weight = 1
 
 
 
-### WAY MORE BEYOND   
+### WAYMORE BEYOND   
 
 ### Environmental Solutions Projects Development
 
