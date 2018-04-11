@@ -6,8 +6,8 @@ weight = 1
 
 
 
-### WORLD BUSINESS AGENCY   
-![GitHub logo](/images/logo.jpg)
+### WAY MORE BEYOND   
+
 ### Environmental Solutions Projects Development
 
 *Introduction*

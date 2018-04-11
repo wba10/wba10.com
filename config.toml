@@ -1,6 +1,6 @@
 baseURL = "http://wba10.com/"
 languageCode = "en-us"
-title = "World Business Agency"
+title = "Way More Beyond"
 subtitle = "Environmental Solutions"
 publishDir = "docs"
 
@@ -14,7 +14,7 @@ publishDir = "docs"
 
 [Languages]
   [Languages.en]
-    title = "World Business Agency"
+    title = "Way More Beyond"
 
   [Languages.pt]
-    title = "World Business Agency"
+    title = "Way More Beyond"
